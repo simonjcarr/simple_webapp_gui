@@ -1,6 +1,6 @@
 <template>
   <div>
-    Hello World
+    Hello World - form simon
   </div>
   <div>The time from the API is: {{apiTime}}</div>
 </template>
